@@ -1,6 +1,6 @@
 # 🎮 Oyuncak Hazinesi Nerede? ("Where Is the Toy Treasure?")
 
-**An escape-room-style educational game designed to teach 5th-grade science concepts through narrative-driven puzzle mechanics, tested with 43 students across two schools in Ankara, Turkey.**
+**An escape-room-style educational courseware designed to teach 5th-grade science concepts through narrative-driven puzzle mechanics, tested with 43 students across two schools in Ankara, Turkey.**
 
 > Built as a solo end-to-end product: learning design, UX architecture, classroom deployment, and statistical evaluation.
 
